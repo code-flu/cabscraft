@@ -1,0 +1,19 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-gold: #de9f30;
+  --color-gold-light: #f9d26d;
+  --color-gold-dark: #c17c14;
+  --color-navy: #020d1d;
+  --color-navy-mid: #051428;
+  --color-navy-light: #0a2240;
+
+  --font-sans: 'Poppins', sans-serif;
+  --font-rajdhani: 'Rajdhani', sans-serif;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+}
