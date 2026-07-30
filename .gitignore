@@ -9,7 +9,6 @@ dist/
 .vscode/
 
 # Ignore package-lock.json and yarn.lock files
-package-lock.json
 yarn.lock
 
 # Ignore log files
